@@ -1,4 +1,3 @@
 [submodule "dmoj/repo"]
     path = dmoj/repo
-    url = https://github.com/ThuocPC/MT_OJ.git
-    branch = main
+    url = https://github.com/ThuocPC/MT_OJ
